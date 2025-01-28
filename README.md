@@ -11,7 +11,9 @@
 
 ### Select python interpreter in vscode:
 
-- `crt + shift + P` : To open command palette
+- open command palette :
+  - windows : `crt + shift + P`
+  - mac : `cmd + shift + P`
 - Select python interpreter from your created env using menu
 
 ### Clean the ipynb file utility
