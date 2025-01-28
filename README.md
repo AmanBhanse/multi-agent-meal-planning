@@ -6,8 +6,8 @@
   - source env/bin/activate
 
 - windows:
-  - `python -m venv env`
-  - `env/bin/activate`
+  - `python -m venv <env-name>`
+  - `<env-name>/script/activate`
 
 ### Select python interpreter in vscode:
 
